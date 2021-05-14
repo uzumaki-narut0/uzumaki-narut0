@@ -1,5 +1,6 @@
 ## Hi there, I'm Swapnil! 👋
 
+Hi, I'm Kumar Swapnil. I am a fullstack developer, currently working at [Cashfree](https://www.cashfree.com/). With a proffesional experience of 3 years, I have worked on an array of problems spanning across multiple languages and frameworks.
 
 
 ### 📚 Recent Blog Posts
