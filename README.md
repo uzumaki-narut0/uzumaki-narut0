@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Swapnil! 👋
+------------------------
 
+📚 Recent Blog posts
+* [Rate Limiting](https://blog.devgenius.io/rate-limiting-a0a02f98ebb3)
+* [Understanding Merkle Trees](https://medium.com/geekculture/understanding-merkle-trees-f48732772199) 
+* [Load Balancing](https://kumarswapnil.medium.com/load-balancing-e62478581e20)
+* [B-Trees and why they are used for indexing](https://kumarswapnil.medium.com/b-trees-and-why-they-are-used-for-indexing-6c824677cecd)
 <!--
 **uzumaki-narut0/uzumaki-narut0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzumaki-narut0)](https://github.com/anuraghazra/github-readme-stats)
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzumaki-narut0)](https://github.com/anuraghazra/github-readme-stats)
