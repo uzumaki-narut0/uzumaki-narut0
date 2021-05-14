@@ -1,7 +1,8 @@
-### Hi there, I'm Swapnil! 👋
-------------------------
+## Hi there, I'm Swapnil! 👋
 
-📚 Recent Blog posts
+
+
+### 📚 Recent Blog posts
 * [Rate Limiting](https://blog.devgenius.io/rate-limiting-a0a02f98ebb3)
 * [Understanding Merkle Trees](https://medium.com/geekculture/understanding-merkle-trees-f48732772199) 
 * [Load Balancing](https://kumarswapnil.medium.com/load-balancing-e62478581e20)
