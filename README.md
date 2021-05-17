@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzumaki-narut0)](https://github.com/anuraghazra/github-readme-stats)
 
-### :fire: When I'm not coding, these are the sources of my Dopamine rush! 
+### 📺  When I'm not coding, these are the sources of my Dopamine rush! 
 * [MyAnimeList](https://myanimelist.net/animelist/Kumar_Swapnil)
 * [GoodReads](https://www.goodreads.com/user/show/103380772-kumar-swapnil)
 * [Chess.com](https://www.chess.com/member/swap38302)
