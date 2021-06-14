@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzumaki-narut0)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📺  When I'm not coding, these are the sources of my Dopamine rush! 
-* [MyAnimeList](https://myanimelist.net/animelist/Kumar_Swapnil)
-* [GoodReads](https://www.goodreads.com/user/show/103380772-kumar-swapnil)
-* [Chess.com](https://www.chess.com/member/swap38302)
-* [Steam](https://steamcommunity.com/id/b1ank_gaming/)
+* [Anime](https://myanimelist.net/animelist/Kumar_Swapnil)
+* [Books](https://www.goodreads.com/user/show/103380772-kumar-swapnil)
+* [Chess](https://www.chess.com/member/swap38302)
+* [Games](https://steamcommunity.com/id/b1ank_gaming/)
+* [TV Series](https://www.imdb.com/list/ls505737500/)
 
 ### :call_me_hand: Let's Connect
 <p align="left">
