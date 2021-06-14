@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 * [MyAnimeList](https://myanimelist.net/animelist/Kumar_Swapnil)
 * [GoodReads](https://www.goodreads.com/user/show/103380772-kumar-swapnil)
 * [Chess.com](https://www.chess.com/member/swap38302)
+* [Steam](https://steamcommunity.com/id/b1ank_gaming/)
 
 ### :call_me_hand: Let's Connect
 <p align="left">
