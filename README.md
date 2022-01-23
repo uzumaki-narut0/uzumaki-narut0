@@ -1,6 +1,6 @@
 ## Hi there, I'm Swapnil! 👋
 
-I am a fullstack developer, currently working at [Cashfree](https://www.cashfree.com/). I occasionaly write on tech at [Medium](https://kumarswapnil.medium.com/) and finance at [Substack](https://kumarswapnil.substack.com/).
+I am a fullstack developer, currently working at GitHub. I occasionaly write on tech at [Medium](https://kumarswapnil.medium.com/) and finance at [Substack](https://kumarswapnil.substack.com/).
 
 
 ### 📚 Recent Blog Posts
