@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 * [Anime](https://myanimelist.net/animelist/Kumar_Swapnil)
 * [Books](https://www.goodreads.com/user/show/103380772-kumar-swapnil)
 * [Chess](https://www.chess.com/member/swap38302)
-* [Games](https://steamcommunity.com/id/b1ank_gaming/)
+* [Games](https://steamcommunity.com/id/glitch-sama/)
 * [TV Series](https://www.imdb.com/list/ls505737500/)
 
 ### :call_me_hand: Let's Connect
